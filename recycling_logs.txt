@@ -1,0 +1,1 @@
+Household ID: 01 | Material: wood, Weight: 50.0kg, Date: 2026-06-21, Points: 500

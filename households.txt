@@ -1,0 +1,2 @@
+ID: 01, Name: pranav giri, Address: yukta residency nanded, Join Date: 2026-06-21, Total Points: 500
+ID: 02, Name: parth giri, Address: shimla nager pune, Join Date: 2026-06-21, Total Points: 0
